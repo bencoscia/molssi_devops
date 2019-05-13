@@ -7,6 +7,8 @@ molssi_devops
 
 A package containing useful math functions
 
+I love chocolate pancake
+
 ### Copyright
 
 Copyright (c) 2019, Ben Coscia
