@@ -1,3 +1,8 @@
-My spoon is too big
+s is	the start of testing.txt
+***************************************
 
-new line
+I added this file from a new clone!
+
+***************************************
+This is	the end	of testing.txt
+***************************************
