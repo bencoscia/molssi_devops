@@ -4,7 +4,7 @@ A package containing useful math functions
 """
 
 # Add imports here
-from .molssi_math import canvas
+from .molssi_math import canvas, mean
 from .util import title_case
 
 # Handle versioneer
