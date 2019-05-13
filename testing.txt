@@ -1,4 +1,4 @@
-s is	the start of testing.txt
+This is	the start of testing.txt
 ***************************************
 
 I added this file from a new clone!
